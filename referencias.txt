@@ -1,0 +1,72 @@
+https://github.com/gustavoguanabara
+https://gustavoguanabara.github.io/
+
+Referências on-line:
+-   Referência MDN:
+        Mozila Developer Network
+
+-   WHATWG Living Standard
+        Web Hypertext Aplication Tecnology Working Group
+-   W3C Standards
+-   W3 Schools
+
+
+Bibliografia recomendada:
+
+HTML5 e CSS3
+Elizabeth Castro e Bruce Hyslop
+Alta Books
+
+HTML e CSS
+Jon Duckett
+Alta Books
+
+HTML e CSS
+Use a Cabeça
+Elisabeth Robson e Eric Freeman
+Alta Books
+
+Crie seu Proprio Site
+Nate Cooper e Kin Gee
+Novatec
+
+HTML e CSS
+Mauricio Samu Silva (Todos)
+Novatec
+
+>Livros sobre Design:
+
+Curso de Desing Gráfico
+David Dabner e Outros
+GG
+
+Design
+Bob e Maggie Gordon
+Senac
+
+A Psicologia das Cores
+Eva Heller
+GG
+
+Pensar com Tipos
+Ellen Lupton
+GG
+
+Media Typer
+https://www.iana.org/assignments/media-types/media-types.xhtml
+
+Baixar vídeos/Imagens
+https://www.pexels.com/pt-br/
+
+Converter vídeos
+https://handbrake.fr/
+
+Teoria das Cores.
+https://gdartes.com.br/teoria-das-cores-estudo-e-harmonia-das-cores/
+
+Criar paletas de cores
+https://color.adobe.com/pt/create/color-wheel
+https://coolors.co/
+
+Capturar cores em sites/imagens
+Extensão do Chrome: ColorZilla

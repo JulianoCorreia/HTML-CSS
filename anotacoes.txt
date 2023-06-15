@@ -1,0 +1,260 @@
+UTF-8
+MB Megabytes <- Armazenamento
+Mb Megabites <- Transmissão
+
+Todo e qualquer ponto conectado à Internet recebe um identificador, que se chama “endereço IP”. Na versão IPv4, um endereço possui 32 bits, já a versão IPv6 necessita de 128 bits para identificar um ponto.
+
+O conjunto de protocolos TCP/IP foi criado por um funcionário da DARPA e um pesquisador da universidade de Stanford. São eles, respectivamente: Robert Kahn e Vint Cerf.
+
+A primeira transmissão registrada na rede foi no ano de 1969. A primeira palavra enviada de um computador para outro foi LOGIN.
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Título d Site</title>
+	</head>
+	<body>
+	</body>
+</html>
+
+
+A sigla HTML significa: HyperText Markup Language
+
+HTML e CSS são linguagens de DESENVOLVIMENTO.
+
+H   HYPER
+T   TEXT
+M   MARKUP
+L   LANGUAGE
+
+C   CASCADING
+S   STYLE
+S   SHEETS
+
+A linguagem HTML é focada em conteúdo (textos, imagens, vídeos, tabelas, etc)
+
+CSS é focada em design (cores, sambras, tamanhos, posicionamento)
+
+JS é responsável por interações (menus, animações, popups, validações)
+
+TIPOGRAFIA  DAS LETARS:
+A tipografia se inicia em 1450, com o inventor alemão JOHANNES GUTEMBERG.
+Inventou a prensa mecânica de tipos móveis.
+
+As letras também são chamadas de glifos.
+A letra X é o ponto de partida para construção de todas as fontes.
+
+## Adicionar emojis ##
+https://emojipedia.org/
+Obs: Alguns navegadores não aceitam copiar o código, precisa digitar.
+Dentro do HTML adicionar  &#x(seguido do cógigo do emoji)
+
+
+## Site para busca de imagens ##
+https://unsplash.com/
+
+
+## Encontrar Ícones para o site ##
+
+
+citações : usar a TAG <q>
+
+ENVELOPAR Ctrl + Shift + P
+
+
+TAG <ol> -> Listas Ordenadas        (type=1, A, a, i, I)
+TAG <li> -> Listas simples
+TAG <ul> -> Listas não Ordenadas    (type=disc, circle, square)
+TAG <abbr> -> Abreviações (representa uma abreviação e opcionalmente fornece uma descrição completa para ela)
+TAG <code> -> Código fonte
+
+dt é Lista de definição
+dd é descrição
+
+Para links internos colocar após o link:
+-- rel="next" (para primeira página)
+-- rel="prev" (para as demais páginas)
+
+Para indexação (recomendação do google)
+rel="nofollow" (sem indexação)
+rel="dofollow" (com indexação)
+
+Seletores com o símbolo de maior que (>):  filhos diretos ou direct childern.
+
+Adicicionar FAVICON
+<link rel="shortcut icon" href="(local da imagem)" type="image/x-icon">
+
+tag <picture> para adicionar imagens flexiveis
+Semântica:
+<picture>
+
+*Aqui reduz para tamanho pequeno
+<source media="(max-width: 750px)" srcset="imagens/foto-p.png type="image/png">
+
+*Aqui reduz para tamanho médio
+<source media="(max-width: 1000px)" srcset="imagens/foto-m.png" type="image/png>
+
+<img>AQUI ADICIONA A IMAGEM MAIOR>
+</picture>
+
+*ALGUMAS TAGS*
+
+STATIC é o único que não será aceito para configurar a propriedade position em CSS.
+
+O elemento <body> do HTML representa o conteúdo de um documento HTML. è permitido apenas um <body> por documento.
+
+O elemento <main> define o conteúdo principal dentro do <body>seu documento ou aplicativo.
+
+O Elemento HTML de Navegação <nav> representa uma seção de uma página que aponta para outras páginas ou para outras áreas da página, ou seja, uma seção com links de navegação.
+
+O elemento HTML <section> representa uma seção genérica contida em um documento HTML, geralmente com um título, quando não existir um elemento semântico mais específico para representá-lo.
+
+O Elemento HTML Article <article> representa uma composição independente em um documento, página, aplicação, ou site, ou que é destinado a ser distribuído de forma independente ou reutilizável, por exemplo, em indicação. 
+
+O elemento HTML <aside> representa uma seção de uma página que consiste de conteúdo que é tangencialmente relacionado ao conteúdo do seu entorno, que poderia ser considerado separado do conteúdo
+
+O elemento HTML de Rodapé <rodapé> representa um rodapé para o seu conteúdo de seção (conteúdo de seção) mais próximo ou elemento raiz de seção.
+
+O elemento HTML <figure> representa conteúdo autocontido, potencialmente com uma legenda opcional, que é especificada usando o elemento.
+
+Estilos Inline da CSS
+Estilos CSS Inline não devem ser utilizados, somente em cenários específicos onde o site não precisa de muita manutenção e com poucas páginas.
+
+Todas as configurações visuais dos elementos HTML são realizadas pela linguagem CSS. Agrupamos todas as declarações CSS de um mesmo elemento dentro de um SELETOR.
+
+
+OS valores das cores em Hexadecimal vão de 0 a 255
+
+Formas de repesentação de cores:
+-Nome da cor  (branco, verde, amarelo)
+-RGB	rgb(255, 255, 255, 255)
+-HSL	(Hue, Saturation, Luminosity) - matiz, saturação e luminância
+-Hexadecimal	(#000fff)
+
+## CÍRCULO CROMÁTICO ##
+
+https://www.designerd.com.br/wp-content/uploads/2021/01/circulo-cromatico-o-que-e-1536x922.png
+
+https://gdartes.com.br/teoria-das-cores-estudo-e-harmonia-das-cores/
+
+Harmonia de cores
+Cores primarias:
+Amarelo, Vermelho, Azul
+
+*** Segundo levantamentos relacionados à psicologia das cores, AZUL é a cor com a maior taxa de aceitação;
+
+Secundárias:
+Laranja, Violeta, verde
+
+Terciárias:
+O nome sempre contém o nome da cor primária seguido da cor secundária
+ex: amarelo-alaranjado, ou vermelho-alaranjado.
+
+Temperatuas de cores
+Lado direito do círculo cromático: cores quentes.
+Lado esquerdo do círculo cromático: cores frias.
+
+** Gerelmante uma plaleta de cores, contém de 3 a 5 cores. (Desconsiderar branco e preto).
+
+Cores complementares:
+São aquelas que estão localizadas imediatamente ao lado da cor considerada
+São as cores que mais contrastam entre si.
+ex: violeta e amarelo.
+
+Cores Análogas:
+São aquelas que estão no extremo oposto do círculo cromático.
+Cores que não tem contraste entre elas, mas tem harmonia.
+https://www.projetoinclusaodigital.com.br/images/dicas-tutoriais/diversos/circulo-cores/cores-analogas.jpg
+
+Obtemos o degrade, modificando a saturação e luminosidade das cores.
+
+Adicionar GRADIENTE
+background-image: informar a direção do gradiente.
+ex:
+background-image: linear-gradient(to left, white, blue); Do branco para o azul.
+
+
+
+Todas as letras tem a altura baseada na altura da letra X
+
+Medias Absolutas para fontes:
+centímetros (cm)
+milímetros	(mm)
+polegada 	(in)
+pixel		(px)
+
+*Estas não se recomenda usar em papel
+ponto		(pt)
+paica		(pc)
+
+Medidas Relativas:
+Medida relativa ao tamanho atual da fontes	(em)
+Relativo a altura X de uma letra (ex)
+Relativo a fonte configurada bo body(rem)
+Porcentagem da view port	(vw e vh)
+	vw -> Largura da view port
+	vh -> altura da view port
+
+16px GERALMENTE é o tamanho padrao da fonte	= 1em
+
+Todo conteúdo é uma caixa
+Tipos de caixa:
+Box level > Sempre ocupa a largura total da tela
+Sempre que termina a caixa, ele quebra a linha.
+ex: tag  <div>  <h1>  <h2> <main> <header> <nav>
+
+inline-level > não quebra a linha, sempre utiliza somente o tamanho necssário.
+ex: tag <span> <a> <code> <small> <stong> <button> <input> <select>
+
+box-shadow:
+insite: cria a sombra dentro da caixa
+outsite: cria a sombra fora da caixa
+parametros:
+1º deslocamento horizontal
+2º deslocamento vertical
+3º blur
+4º spret
+ 
+Colocar espaços no CSS
+'\00A0'
+
+Exemplo de estilo inline:
+*** Junto com a <tag>
+<h1 style="color: red;">Título</h1>
+
+Exemplo de estilo interno:
+*** Dentro da área de <head>
+<style>
+	body{
+		color: white;
+		background-color: red;
+	}
+	p{
+		font-family: Arial;
+		font-size: 10px;
+	}
+</style>
+
+Exemplo de estilo externo:
+**Dentro da área de <head>
+<link rel="stylesheet" href="./css/style.css">
+- href é o local onde está o arquivo de estilos.
+- stylesheet é a folha de estilos.
+
+PADDING: espaço interno, que fica entre a borda e o conteúdo;
+MARGIN: espaço externo, que fica além da borda;
+;root: Para declarar variáveis em CSS, devemos criar uma pseudo-classe especial dentro do documento CSS atual;
+
+
+			###	 Módulo 3	###
+*** VERSIONAMENTO DE SOFTWARES ***
+Repositórios são locais onde estão armazenados os arquivos
+
+git ->	software que mantem versões dos arquivos, salvos na maquina local. Criado Linus Torvalds, criador do Linux.
+
+Github - > repositório remoto, onde vc pode armazenar seus arquivos na nuvem, funciona como um backup online.
+
