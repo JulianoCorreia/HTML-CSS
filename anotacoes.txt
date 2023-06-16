@@ -202,6 +202,7 @@ Porcentagem da view port	(vw e vh)
 16px GERALMENTE é o tamanho padrao da fonte	= 1em
 
 Todo conteúdo é uma caixa
+Todo posicionamento de um box é RELATIVO
 Tipos de caixa:
 Box level > Sempre ocupa a largura total da tela
 Sempre que termina a caixa, ele quebra a linha.
