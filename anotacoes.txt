@@ -302,3 +302,17 @@ Primeiro colunas e depois linhas
 
 PARA NÃO COLOCAR VÁRIAS <BR>
 usar tag <pre> e na css usar a propriedade  WHITE-SPACE: PRE-LINE;
+
+
+###	TABELAS	###
+-Devem ser utilizadas para mostrar/organizar dados.
+-Não devem ser utilizadas para layouts, estruta de sites. São estruturas rígidas, dificeis de posicionar no laytout do site.
+
+        HIERARQUIA DE TABELAS (SIMPLES)
+        TABLE = tabela
+			TABLE ROW = linha de tabela         <tr>
+            TABLE HEADER = cabeçalho de tabela  <th>
+            TABLE DATA   = daos de tabela       <td>
+			
+          **border-collapse: collapse; (junto) / Separate (separado)
+	** Respeitar a hierarquia de tabelas.
