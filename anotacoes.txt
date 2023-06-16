@@ -248,7 +248,19 @@ Exemplo de estilo externo:
 
 PADDING: espaço interno, que fica entre a borda e o conteúdo;
 MARGIN: espaço externo, que fica além da borda;
+
 ;root: Para declarar variáveis em CSS, devemos criar uma pseudo-classe especial dentro do documento CSS atual;
+	Ex:
+		--cor0: #c5ebd6;
+		--cor1: #83e1ad;
+		--cor2: #3ddc84;
+		--cor3: #2fa866;
+		--cor4: #1a5c37;
+		--cor5: #063d1e;
+
+		--fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
+		--fonte-destaque: 'Bebas Neue', cursive;
+		--fonte-android: 'Android', cursive;
 
 
 			###	 Módulo 3	###
@@ -287,3 +299,6 @@ Posição da imagem:
 	COLOR > IMAGE > POSITION > REPEAT > [SIZE] > ATTACHMENT
 	
 Primeiro colunas e depois linhas
+
+PARA NÃO COLOCAR VÁRIAS <BR>
+usar tag <pre> e na css usar a propriedade  WHITE-SPACE: PRE-LINE;
