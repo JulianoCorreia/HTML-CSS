@@ -277,5 +277,9 @@ Posição da imagem:
  Obs:	vh	->	altura da view port (height)
 	    vw	->	largura da view port (width)
 		
-
+	background-size: 100%  100%;	-> preenche a tela, mas achata e distorce a imagem
+	* Podemos usar valor auto, em pixel, porcentagem, cover ou contain no size.
+		    countain;  	-> a imagem é 100% exibida, com laterais vazias as vezes
+		    cover;		-> cobre a tela toda mesmo que tenha que cortar a imagem
+	
 Primeiro colunas e depois linhas
