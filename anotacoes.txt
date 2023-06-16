@@ -258,3 +258,7 @@ git ->	software que mantem versões dos arquivos, salvos na maquina local. Criad
 
 Github - > repositório remoto, onde vc pode armazenar seus arquivos na nuvem, funciona como um backup online.
 
+Formas de adicioanr background:
+background-color: lightgray;
+background-image: linear-gradient
+background-image: url()
