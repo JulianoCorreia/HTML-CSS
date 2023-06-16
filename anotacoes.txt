@@ -259,6 +259,23 @@ git ->	software que mantem versões dos arquivos, salvos na maquina local. Criad
 Github - > repositório remoto, onde vc pode armazenar seus arquivos na nuvem, funciona como um backup online.
 
 Formas de adicioanr background:
-background-color: lightgray;
-background-image: linear-gradient
-background-image: url()
+	background-color: lightgray;
+	background-image: linear-gradient
+	background-image: url()
+	background-repeat:  no-repeat;   -> sem repetição (apenas 1 imagem)
+				        repeat-x;	 -> repetição na horizontal
+				        repeat-y	 -> repetição na vertical
+						
+Posição da imagem:
+		background-position: 	posição horizontal     posição vertical	
+
+ Ex:	background-position: left top;		-> esquerda topo
+	    background-position: left center;	-> esquerda centro
+        background-position: right bottom;	-> direita embaixo
+        background-position: center center;	-> centro centro
+
+ Obs:	vh	->	altura da view port (height)
+	    vw	->	largura da view port (width)
+		
+
+Primeiro colunas e depois linhas
